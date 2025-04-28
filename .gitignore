@@ -1,0 +1,59 @@
+# Node/Vite/React (frontend)
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python/FastAPI (backend)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+.Python
+
+# Python environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Misc
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.cache/
+coverage.xml
+nosetests.xml
+test-results/
