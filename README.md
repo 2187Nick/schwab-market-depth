@@ -81,4 +81,10 @@ Click the "+" to add more charts
 - `localhost:8080/historical_full/{symbol}` - Get historical market depth snapshots 
 
 ## Credit
+
+[@2187Nick](https://x.com/2187Nick) 
+
+[Discord](https://discord.com/invite/vxKepZ6XNC) Come checkout the other builders and projects.
+
+
 Schwab API wrapper: https://github.com/tylerebowers/Schwabdev
