@@ -22,7 +22,14 @@ https://github.com/user-attachments/assets/a97abe19-d64d-4ef9-9ce8-2ab3edcae2fb
 ![](https://github.com/user-attachments/assets/eaf79313-131c-4cf4-ac24-fd23c6a65cb0)
 
 ## Add more charts
-Click the "+" to add more charts
+Click the "+" to add more charts. Click the red "x" to delete the chart.
+
+Add as many charts as you want.
+
+## Auto vs Mode1
+Click "Auto" in the bottom right corner to switch to Manual mode.
+
+The default "Auto" mode locks the y-axis to +-10% of the last price.
 
 ## Features
 
@@ -76,7 +83,7 @@ Click the "+" to add more charts
 
 ## API Endpoints
 
-- `localhost:8080/symbols` - Get all available symbols
+- `localhost:8080/symbols` - Get all available symbols in your db
 - `localhost:8080/depth/{symbol}` - Get the latest market depth for a symbol
 - `localhost:8080/historical_full/{symbol}` - Get historical market depth snapshots 
 
