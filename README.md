@@ -1,6 +1,6 @@
 # Market Depth Visualization
 
-This project visualizes level 2 data from the Schwab streaming API using a bookmap style visualization.
+This project visualizes level 2 options data from the Schwab streaming API using a bookmap style visualization.
 
 This is a rough v1. Improvements coming.
 
@@ -22,14 +22,18 @@ https://github.com/user-attachments/assets/a97abe19-d64d-4ef9-9ce8-2ab3edcae2fb
 ![](https://github.com/user-attachments/assets/eaf79313-131c-4cf4-ac24-fd23c6a65cb0)
 
 ## Add more charts
+```
 Click the "+" to add more charts. Click the red "x" to delete the chart.
 
 Add as many charts as you want.
+```
 
 ## Auto vs Mode1
+```
 Click "Auto" in the bottom right corner to switch to Manual mode.
 
 The default "Auto" mode locks the y-axis to +-10% of the last price.
+```
 
 ## Features
 
